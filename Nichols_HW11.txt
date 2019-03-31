@@ -1,0 +1,67 @@
+<!--
+Project Name: Fish Creek (HW9)
+Author: Isabel Nichols
+Date Last Modified: March 25, 2019
+-->
+
+<!--question #1-->
+<html lang="en">
+<head>
+<title> Example Site </title>
+<meta charset="utf-8">
+</head>
+<body>
+    <p style= "background-color:green; color:white">
+        here is a random paragraph about myself. I am a singer, guitar player, piano player.
+    </p>   
+</body>
+</html>
+
+<!--question #2-->
+<!DocType html>
+<html lang="en">
+<head>
+<title> Exmaple Site </title>
+<meta charset="utf-8">
+<style>
+    body{
+        background-color: #EAEAEA;
+        color:#000033;
+    }    
+</style>
+</head>
+<body>
+    <p>
+        here is a random paragraph about myself. I am a singer, guitar player, piano player.
+    </p>   
+</body>
+</html>
+
+
+<--!question #3-->
+body{
+    color:brown;
+    font-suze: 1.2em;
+    font-family: Arial;
+}
+
+<--!question #4-->
+<!DocType html>
+<html lang="en">
+<head>
+<title>Example site</title>
+<meta charset="utf-8">
+<style type="text/css">
+    .new{
+        text-weight: bold;
+        font-style:italic;
+    } 
+    
+</style>
+</head>
+<body>
+    <p class="new">
+        here is a random paragraph about myself. I am a singer, guitar player, piano player.
+    </p>   
+</body>
+</html>
