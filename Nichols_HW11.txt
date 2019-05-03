@@ -16,6 +16,7 @@ Date Last Modified: March 25, 2019
     </p>   
 </body>
 </html>
+should be in hex
 
 <!--question #2-->
 <!DocType html>
@@ -44,6 +45,8 @@ body{
     font-suze: 1.2em;
     font-family: Arial;
 }
+should be in hex
+missing font list
 
 <--!question #4-->
 <!DocType html>
